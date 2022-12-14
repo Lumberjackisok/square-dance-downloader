@@ -1,3 +1,7 @@
+只适合下载糖豆广场舞
+
+
+
 1.下载并安装node.js
 2.新建一个英文名称的文件夹，用终端打开文件夹，把下面的代码粘贴到终端并按回车：git clone git@github.com:Lumberjackisok/square-dance-downloader.git
 3.继续把下面的这句代码粘贴到终端并回车：cd square-dance-downloader
